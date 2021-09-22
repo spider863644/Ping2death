@@ -4,8 +4,9 @@
 <p>Open Kali and type<br>
 <b>git clone https://github.com/Spider863644/Ping2death</b><br>
 <br>
+<b>cd Ping2death<b>
 Now move it to <b>C: drive</b> by typing <br>
-<b>mv Ping2death C:\</b><br>
+<b>mv DDos-tool C:\</b><br>
 <br>Now go to File manager, go to c drive, u will see the file just double click it</p>
 
 <h2>Usage:</h2><br>
